@@ -1,0 +1,6 @@
+bitbake*
+tmp/**/*
+cache/**/*
+meta-*
+workspace/**/*
+
