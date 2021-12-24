@@ -1,6 +1,6 @@
 bitbake*
 tmp/**/*
 cache/**/*
-meta-*
+# meta-*
 workspace/**/*
 

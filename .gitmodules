@@ -1,0 +1,6 @@
+[submodule "meta-live-thomux"]
+	path = meta-live-thomux
+	url = ./meta-live-thomux
+[submodule "meta-zinc"]
+	path = meta-zinc
+	url = ./meta-zinc
